@@ -217,7 +217,7 @@ const Home = () => {
             <Box sx={{ margin: "30px 0px 0px", color: "#0F3156" }}>
               <h2>TRY &nbsp;IT....!</h2>
             </Box>
-            <Codbox api_c={"https://api-forge-node.onrender.com/movie"} />
+            <Codbox api_c={"https://api-forge-node-uqp9.onrender.com/movie"} />
             <Button variant="outlined" onClick={openTab}>
                   TRY NOW
             </Button>

@@ -28,7 +28,7 @@ export default function Tokenbox() {
 
   const sendMail = async (values, action) => {
     await axios.post(
-      "https://api-forge-node.onrender.com/tempId/create",
+      "https://api-forge-node-uqp9.onrender.com/tempId/create",
       values
     );
     action.resetForm();
